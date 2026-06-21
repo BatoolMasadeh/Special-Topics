@@ -1,0 +1,2 @@
+base_model,method,dataset_size,epochs,learning_rate,lora_rank,output_file
+Qwen2.5-0.5B-Instruct or TinyLlama-1.1B-Chat,PEFT / LoRA,5,1,2e-4,8,qa_tuning_data.jsonl
