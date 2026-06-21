@@ -1,0 +1,21 @@
+method,question,answer_relevance,faithfulness,latency_seconds,results_count
+BM25 Only,What is retrieval augmented generation?,0.5,1.0,0.0079,5
+BM25 Only,What are the main stages of RAG?,0.67,1.0,0.0096,5
+BM25 Only,Why is RAG used with large language models?,0.0,1.0,0.0108,5
+BM25 Only,What is graph retrieval augmented generation?,0.67,1.0,0.0121,5
+BM25 Only,How can RAG systems be evaluated?,0.0,1.0,0.0127,5
+Dense Only,What is retrieval augmented generation?,0.5,1.0,0.0348,5
+Dense Only,What are the main stages of RAG?,0.0,0.0,0.018,5
+Dense Only,Why is RAG used with large language models?,0.0,1.0,0.0128,5
+Dense Only,What is graph retrieval augmented generation?,0.67,1.0,0.029,5
+Dense Only,How can RAG systems be evaluated?,0.0,1.0,0.0299,5
+Hybrid,What is retrieval augmented generation?,0.5,1.0,0.0617,5
+Hybrid,What are the main stages of RAG?,0.33,1.0,0.0576,5
+Hybrid,Why is RAG used with large language models?,0.0,0.0,0.0331,5
+Hybrid,What is graph retrieval augmented generation?,0.67,1.0,0.0217,5
+Hybrid,How can RAG systems be evaluated?,0.0,1.0,0.022,5
+GraphRAG,What is retrieval augmented generation?,0.5,1.0,1.0748,9
+GraphRAG,What are the main stages of RAG?,0.67,1.0,0.3996,15
+GraphRAG,Why is RAG used with large language models?,0.0,1.0,0.2888,15
+GraphRAG,What is graph retrieval augmented generation?,0.67,1.0,0.1785,9
+GraphRAG,How can RAG systems be evaluated?,0.0,1.0,0.1957,12

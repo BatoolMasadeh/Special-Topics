@@ -1,0 +1,2 @@
+step,query_id,accuracy_at_drift,f1_at_drift,alpha_at_drift,adwin_width,adwin_estimation
+64,S64,0.75,0.8571428571428571,0.8199354863286108,40.0,0.35

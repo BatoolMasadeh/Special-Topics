@@ -1,0 +1,6 @@
+query,latency_ms,top_result_title
+What is retrieval augmented generation?,389.33,retrieval augmented generation for large language models a survey
+What is GraphRAG?,116.79,open domain question answering goes conversational via question rewrit
+How does semantic search work?,119.53,beir a heterogeneous benchmark for zero shot evaluation of information
+What are embeddings used for?,120.48,seven failure points when engineering a retrieval augmented generation
+What is vector database retrieval?,118.19,self rag learning to retrieve generate and critique through self refle

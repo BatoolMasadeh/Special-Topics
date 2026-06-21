@@ -1,0 +1,6 @@
+query,recall@5
+What is retrieval augmented generation?,1.0
+What is GraphRAG?,1.0
+How does semantic search work?,0.33
+What are embeddings used for?,1.0
+What is vector database retrieval?,1.0
