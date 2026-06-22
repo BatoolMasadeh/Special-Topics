@@ -1,2 +1,0 @@
-model,device,cuda_available,task,status
-distilgpt2,NVIDIA GeForce RTX 5050 Laptop GPU,True,SLM local generation test,Model loaded and generated successfully
