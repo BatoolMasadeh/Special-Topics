@@ -1,0 +1,32 @@
+{
+  "global_step": 5,
+  "epoch": 1.0,
+  "best_metric": 0.87,
+  "log_history": [
+    {
+      "step": 1,
+      "loss": 2.41,
+      "learning_rate": 0.0002
+    },
+    {
+      "step": 2,
+      "loss": 2.12,
+      "learning_rate": 0.00016
+    },
+    {
+      "step": 3,
+      "loss": 1.94,
+      "learning_rate": 0.00012
+    },
+    {
+      "step": 4,
+      "loss": 1.78,
+      "learning_rate": 8e-05
+    },
+    {
+      "step": 5,
+      "loss": 1.69,
+      "learning_rate": 4e-05
+    }
+  ]
+}

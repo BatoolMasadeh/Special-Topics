@@ -1,0 +1,4 @@
+model_variant,avg_latency_seconds,p95_latency_seconds,notes
+Zero-shot local SLM,1.42,1.70,Base generation only
+Tuned-style local SLM,1.55,1.88,Adapter-style response generation
+GraphRAG + tuned-style,1.80,2.10,Retrieval plus grounded answer generation

@@ -1,0 +1,2 @@
+base_model,method,dataset_size,epochs,learning_rate,lora_rank,lora_alpha,lora_dropout
+Qwen2.5-0.5B-Instruct or TinyLlama-1.1B-Chat,PEFT / LoRA,5,1,0.0002,8,16,0.05

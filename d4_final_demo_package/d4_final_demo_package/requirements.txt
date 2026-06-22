@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+peft
+accelerate
+bitsandbytes
+pandas
+pytest
+jupyter
+
+safetensors

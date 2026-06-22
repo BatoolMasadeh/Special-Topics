@@ -1,0 +1,6 @@
+evidence_item,path,status
+LoRA adapter config,trained_lora_adapter/adapter_config.json,included
+LoRA adapter weights,trained_lora_adapter/adapter_model.safetensors,included
+Training log,trained_lora_adapter/training_log.json,included
+Trainer state,trained_lora_adapter/trainer_state.json,included
+Reproducible Colab script,train_lora_adapter_colab.py,included

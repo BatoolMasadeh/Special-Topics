@@ -1,0 +1,23 @@
+{
+  "run_name": "d4_tinyllama_lora_demo_run",
+  "created_for": "CSAI415 D4 final demo package",
+  "base_model": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+  "method": "PEFT/LoRA",
+  "dataset": "tuning_data/qa_tuning_data.jsonl",
+  "dataset_size": 5,
+  "epochs": 1,
+  "learning_rate": 0.0002,
+  "lora_rank": 8,
+  "lora_alpha": 16,
+  "lora_dropout": 0.05,
+  "batch_size": 1,
+  "hardware_used_in_demo": "NVIDIA GeForce RTX 5050 Laptop GPU screenshots included",
+  "status": "adapter artifact included; full Colab training script included for reproducibility",
+  "note": "This package uses a very small curated QA dataset for course demonstration, not production training.",
+  "metrics": {
+    "zero_shot_avg_relevance": 0.63,
+    "tuned_style_avg_relevance": 0.87,
+    "zero_shot_avg_faithfulness": 0.65,
+    "tuned_style_avg_faithfulness": 0.9
+  }
+}
