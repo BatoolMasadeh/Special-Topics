@@ -1,2 +1,0 @@
-Component,Collection,Vectors Stored,Vector Size,Distance Metric,Recall@5,P95 Latency (s),Avg Latency (s),Model
-Qdrant Vector Database,research_papers,1958,384,Cosine,0.7,0.2192,0.2299,all-MiniLM-L6-v2
