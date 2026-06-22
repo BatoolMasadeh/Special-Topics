@@ -1,0 +1,6 @@
+query,relevant_chunk,rank,retrieved_chunk,tfidf_score,dense_score,final_score,hit
+What is retrieval augmented generation?,1865,1,1865,0.404122,0.550008,0.872290,1
+What is retrieval augmented generation?,1865,2,1866,0.329200,0.607619,0.867766,0
+What is retrieval augmented generation?,1865,3,752,0.282363,0.631964,0.854587,0
+What is retrieval augmented generation?,1865,4,42,0.198160,0.694007,0.847104,0
+What is retrieval augmented generation?,1865,5,2007,0.253480,0.637787,0.838310,0

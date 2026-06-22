@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+rank-bm25
+optuna
+river
+pymongo
+dnspython
+neo4j
+qdrant-client
+fastapi
+uvicorn
+pydantic
+matplotlib
+plotly
+tqdm
